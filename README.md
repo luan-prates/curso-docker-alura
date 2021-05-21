@@ -15,12 +15,12 @@
         1. [Docker, Inc.](#docker-inc)
         2. [As tecnologias do Docker](#as-tecnologias-do-docker)
         3. [Open Source](#open-source)
-    6. [Tecnologias do Docker](#tecnologias-do-docker)
-    7. [Instale o Docker Engine no Ubuntu](#instale-o-docker-engine-no-ubuntu)
-    8. [Hello World](#hello-world)
-    9. [Uma alternativa online](#uma-alternativa-online)
+    6. [Instale o Docker Engine no Ubuntu](#instale-o-docker-engine-no-ubuntu)
+    7. [Hello World](#hello-world)
+    8. [Uma alternativa online](#uma-alternativa-online)
         1. [Utilizando o Play With Docker](#utilizando-o-play-with-docker)
-    10. [O que aprendemos?](#o-que-aprendemos)
+    9. [O que aprendemos?](#o-que-aprendemos)
+    10. [Teste de conhecimento](#teste-de-conhecimento) 
 
 
 ## Introdução a Docker
@@ -136,11 +136,6 @@ Apesar de haver alguns serviços pagos, em sua grande parte a tecnologia do Dock
 
 ---
 
-### Tecnologias do Docker
-[link](teste)
-
----
-
 ### Instale o Docker Engine no Ubuntu
 [Documentação Oficial](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
 
@@ -185,3 +180,7 @@ Segue também uma breve lista dos comandos utilizados:
 
 - ```docker version``` - exibe a versão do docker.
 - ```docker run NOME_DA_IMAGEM ```- cria um container com a respectiva imagem passada como parâmetro.
+
+---
+
+### Teste de conhecimento
